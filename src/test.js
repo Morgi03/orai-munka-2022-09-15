@@ -1,7 +1,7 @@
 import { hozzaad } from './lista.js';
 import { atlag } from './lista.js';
 let a = 3;
-let b = 5;
+let b = -1;
 let c = 34;
 let d = 32;
 let e = 21;
