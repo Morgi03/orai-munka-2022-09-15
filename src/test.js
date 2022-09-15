@@ -1,0 +1,17 @@
+import { hozzaad } from './lista.js';
+import { atlag } from './lista.js';
+let a = 3;
+let b = 5;
+let c = 34;
+let d = 32;
+let e = 21;
+hozzaad(a);
+console.log(atlag());
+hozzaad(b);
+console.log(atlag());
+hozzaad(c);
+console.log(atlag());
+hozzaad(d);
+console.log(atlag());
+hozzaad(e);
+console.log(atlag());
